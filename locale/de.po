@@ -11834,23 +11834,23 @@ msgstr "XI (FastTracker 2)"
 
 #: src/import/ImportPCM.cpp
 msgid "Signed 8 bit PCM"
-msgstr "Signiertes 8-bit PCM"
+msgstr "8-bit PCM mit Vorzeichen"
 
 #: src/import/ImportPCM.cpp
 msgid "Signed 16 bit PCM"
-msgstr "16-Bit-PCM signiert"
+msgstr "16-Bit-PCM mit Vorzeichen"
 
 #: src/import/ImportPCM.cpp
 msgid "Signed 24 bit PCM"
-msgstr "24-Bit-PCM signiert"
+msgstr "24-Bit-PCM mit Vorzeichen"
 
 #: src/import/ImportPCM.cpp
 msgid "Signed 32 bit PCM"
-msgstr "Signiertes 32-bit PCM"
+msgstr "32-bit PCM mit Vorzeichen"
 
 #: src/import/ImportPCM.cpp
 msgid "Unsigned 8 bit PCM"
-msgstr "Unsigniertes 8-bit PCM"
+msgstr "8-bit PCM ohne Vorzeichen"
 
 #: src/import/ImportPCM.cpp
 msgid "32 bit float"
